@@ -8,6 +8,6 @@ public class SumTwoNumbers {
         int sum = a + b;
 
         // Display the result
-        System.out.println("The sum of " + a + " and " + b + " is: " + sum);
+        System.out.println("The sum of given numbers" + a + " and " + b + " is: " + sum);
     }
 }
